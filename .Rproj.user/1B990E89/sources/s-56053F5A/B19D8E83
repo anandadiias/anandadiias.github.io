@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565707109519.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3244103038",
+    "id" : "B19D8E83",
+    "lastKnownWriteTime" : 1565708906,
+    "last_content_update" : 1565708906359,
+    "path" : "~/Github/anandadiias.github.io/_config.yml",
+    "project_path" : "_config.yml",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
