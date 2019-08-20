@@ -2,7 +2,7 @@
   link: 'https://www.facebook.com/anandaribeiiro'
   social_icon: Facebook
   new_window: true
-- name: RSS
-  link: '/feed.xml'
-  social_icon: RSS
+- name: Instagram
+  link: 'https://www.instagram.com/ananda_rdias/'
+  social_icon: instagram
   new_window: true
