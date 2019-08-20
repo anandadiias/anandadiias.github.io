@@ -17,10 +17,10 @@ author:
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
-social: Instagram
-  name: Instagram
+social:
+  name: Strata Reloaded Template
   links:
-    - https://www.instagram.com/ananda_rdias/
+    - https://github.com/comfusion/strata-reloaded-jekyll-template
 
 permalink: pretty
 
